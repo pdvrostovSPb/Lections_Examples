@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {}
+    "C:\\Users\\User\\Desktop\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {
+    "C:\\Users\\User\\Desktop\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
         "projectName": "Example002_HelloUser",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Examples\\Example002_HelloUser\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Examples\\Example002_HelloUser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
